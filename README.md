@@ -1,0 +1,13 @@
+# onc-user 10 QKQ1.191008.001 V11.0.2.0.QFLCNXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: onc
+- flavor: onc-user
+- release: 10
+- id: QKQ1.191008.001
+- incremental: V11.0.2.0.QFLCNXM
+- tags: release-keys
+- fingerprint: xiaomi/onc/onc:10/QKQ1.191008.001/V11.0.2.0.QFLCNXM:user/release-keys
+- brand: xiaomi
+- branch: onc-user-10-QKQ1.191008.001-V11.0.2.0.QFLCNXM-release-keys
+- repo: xiaomi_onc_dump
